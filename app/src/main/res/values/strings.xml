@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MudrakPatel_COMP304Lab1_Ex2</string>
+    <string name="fullNameString">MudrakPatel</string>
+    <string name="programName">Software Engineering Technology</string>
+    <string name="semesterTextView">Semester 5</string>
+    <string name="courseName">Mobile Application Development</string>
+    <string name="sendButtonString">Send</string>
+</resources>
